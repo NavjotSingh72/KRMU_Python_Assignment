@@ -12,4 +12,4 @@ elif (a==2):
 
     print("the perimeter of rectangle is " , 2*( l+b ))
 else:
-    print("invalid request")
+    print("request invalid")
